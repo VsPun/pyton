@@ -20,11 +20,11 @@ while True:
         # send data to GO PLUS PLATFORM
         url = URL_BASE_DEC
         
-        try:
-            urllib2.urlopen(url)
-        except urllib2.HTTPError as e:
-            if e.code == '404':
-                print("URL not found: %s" % url)
+    try:
+        urllib2.urlopen(url)
+    except urllib2.HTTPError as e:
+        if e.code == '404':
+            print("URL not found: %s" % url)
     
     # sleep for 1 second
     time.sleep(1)
