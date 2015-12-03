@@ -1,5 +1,5 @@
 # pyton
-Ready pyton scripts for GO PLUS PLATFORM
+Pyton ready scripts for GO PLUS PLATFORM
 
 This is ready Pyton scripts for all type of devices in the GO PLUS PLATFORM:
 - Geo type (send lat/lon data)
