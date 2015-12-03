@@ -1,7 +1,7 @@
 # pyton
 Pyton ready scripts for GO PLUS PLATFORM
 
-This is ready Pyton scripts for all type of devices in the GO PLUS PLATFORM:
+This is pyton ready scripts for all type of devices in the GO PLUS PLATFORM:
 - Geo type (send lat/lon data)
 - Data type (send any digitals: int or float types)
 - Switch type (change stat from 0 to 1 and back)
